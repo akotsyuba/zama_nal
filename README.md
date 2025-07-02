@@ -15,3 +15,4 @@ A FHEVM Hardhat-based template for developing Solidity smart contracts.
 - [FHEVM Hardhart Plugin](https://docs.zama.ai/protocol/solidity-guides/development-guide/hardhat)
 
 +1
++2
